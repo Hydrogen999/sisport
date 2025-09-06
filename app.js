@@ -33,7 +33,7 @@
 
 /* ----- TYPING EFFECT ----- */
    var typingEffect = new Typed(".typedText",{
-      strings : ["Designer","Fx TRADER","Developer"],
+      strings : ["Designer","under graduate","Developer"],
       loop : true,
       typeSpeed : 100, 
       backSpeed : 80,
@@ -115,3 +115,4 @@
   }
 
   window.addEventListener('scroll', scrollActive)
+
